@@ -7,3 +7,4 @@ Może to być zrobione w 2 commitach. Przenosimy zmiany na branch 2
 
 
 # testy
+Edytowane pliki
